@@ -1,0 +1,9 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/ryanjadhav/Work/CL-Vagrant/rindle",
+      "folder_exclude_patterns": ["public", "cdn", "docs", "log", "tmp", ".git", "node_modules", "styles/vendor", "client/vendor", "client/templates", "coverage"]
+		}
+	]
+}
